@@ -44,6 +44,10 @@
   * [IP Adresleme Mekanizması](blue-team/ag-temelleri-network-fundamentals/ip-adresleme-mekanizmasi.md)
   * [Ağ Adresi Çevirisi (NAT)](blue-team/ag-temelleri-network-fundamentals/ag-adresi-cevirisi-nat.md)
 
+## network-services-pentesting
+
+* [test](network-services-pentesting/test.md)
+
 ## RESOURCES
 
 * [Cheat Sheet](resources/cheat-sheet.md)
