@@ -28,7 +28,7 @@
 * [🪟 Evrything Windows](red-team/evrything-windows/README.md)
   * [Windows Privilege Escalation](red-team/evrything-windows/windows-privilege-escalation.md)
 * [🕸 Evrything Web](red-team/evrything-web.md)
-* [🏴☠ 🏴☠ Pivoting and Portforwarding](red-team/pivoting-and-portforwarding.md)
+* [🏴☠ 🏴☠ 🏴☠ Pivoting and Portforwarding](red-team/pivoting-and-portforwarding.md)
 * [💀 Powershell](red-team/powershell.md)
 
 ## Blue Team
@@ -43,11 +43,6 @@
   * [TCP/IP Modeli](blue-team/ag-temelleri-network-fundamentals/tcp-ip-modeli.md)
   * [IP Adresleme Mekanizması](blue-team/ag-temelleri-network-fundamentals/ip-adresleme-mekanizmasi.md)
   * [Ağ Adresi Çevirisi (NAT)](blue-team/ag-temelleri-network-fundamentals/ag-adresi-cevirisi-nat.md)
-
-## network-services-pentesting
-
-* [test](network-services-pentesting/test.md)
-* [Page 1](network-services-pentesting/page-1.md)
 
 ## RESOURCES
 
