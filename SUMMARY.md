@@ -28,7 +28,7 @@
 * [🪟 Evrything Windows](red-team/evrything-windows/README.md)
   * [Windows Privilege Escalation](red-team/evrything-windows/windows-privilege-escalation.md)
 * [🕸 Evrything Web](red-team/evrything-web.md)
-* [🏴☠ Pivoting and Portforwarding](red-team/pivoting-and-portforwarding.md)
+* [🏴☠ 🏴☠ Pivoting and Portforwarding](red-team/pivoting-and-portforwarding.md)
 * [💀 Powershell](red-team/powershell.md)
 
 ## Blue Team
